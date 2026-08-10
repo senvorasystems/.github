@@ -1,6 +1,6 @@
 # SENVORA Systems
 
-**Enterprise Technology Consulting**
+**Enterprise Technology Consulting*
 
 SENVORA Systems is a B2B technology consulting firm focused on building clear, integrated and maintainable enterprise technology environments.
 
